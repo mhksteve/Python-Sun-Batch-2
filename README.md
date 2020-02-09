@@ -2,19 +2,26 @@
 
 # Python Documentation
 
-## numpy
+## Python Version 3.7.5
 
-### numpy
+### Lecture From Save In Your Brain 
 
 Numpy is A Python Library for dealing with numerical useful python package.
 
-Use the package manager [numpy](https://pip.pypa.io/en/stable/) to install numpy package.[Google](google.com)
+Use the package manager 
+[Python](https://www.python.org/)
+[numpy](https://pip.pypa.io/en/stable/) to install numpy package.[Google](google.com)
 Press Facebook
 [Facebook](www.facebook.com)
 []()
 
 ```bash
 pip install numpy
+```
+```python
+print("hello world")
+```
+```php
 ```
 
 ## Usage
@@ -29,6 +36,10 @@ numpy.singularize('phenomena') #returns 'phenomenon'
 
 ![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 ![alt_sloth](https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
+![alt_ironman](https://cnet3.cbsistatic.com/img/Jz-08lFTyBlsDGYqW_c2dGCVtcM=/1092x0/2020/01/17/7da55a03-ac5b-4ec1-b59b-6b3c2414e68b/egdt5idw4aittju.jpg )
+
+<img src="https://cnet3.cbsistatic.com/img/Jz-08lFTyBlsDGYqW_c2dGCVtcM=/1092x0/2020/01/17/7da55a03-ac5b-4ec1-b59b-6b3c2414e68b/egdt5idw4aittju.jpg" alt="Example" width="193" height="130">
+<img src="" alt="ironman" width="300" height="300">
 
 
 ##Contributing
@@ -63,11 +74,18 @@ Please make sure to update tests as appropriate.
 #text in grey
 ```
 
+
 ```diff
--text
-+word
-!character
-#string
+-Red
++Green
+!Orange
+#Grey
+
 ```
+
+
+
+
+[Min Khant Aung](https://www.facebook.com/minkhantaung.info)
 
 [MIT](https://choosealicense.com/licenses/mit/)
