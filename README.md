@@ -1,4 +1,8 @@
 
+<<<<<<< HEAD
+# Python Documentation
+=======
+>>>>>>> 274312b9b8a966ccdc405cd7c9dea769b8b79aa6
 
 # Python Documentation
 
